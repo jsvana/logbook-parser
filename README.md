@@ -6,6 +6,10 @@
 
     $ python -m logbook <path/to/foreflight_logbook.csv>
 
+## Installation
+
+    $ pip install -r requirements.txt
+
 ## License
 
 [MIT](LICENSE)
